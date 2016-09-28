@@ -1,7 +1,6 @@
 import '../common/lib';
-import App from '../component/App';
-import HomePage from '../component/HomePage';
+import Homepage from '../component/Homepage';
 import ReactDOM from 'react-dom';
 import React from 'react';
 
-ReactDOM.render(<HomePage />, document.getElementById('react-content'));
+ReactDOM.render(<Homepage />, document.getElementById('react-content'));
