@@ -15,18 +15,6 @@ class Homepage extends Component {
       <section className="page-header">
         <h1 className="project-name">Welcome to Hubery&#39;s homepage.</h1>
         <h2 className="project-tagline">Love all, trust a few, do wrong to none.</h2>
-        <p className="view">
-          <a href="https://github.com/shpfli">View the Project on GitHub
-            <small>shpfli</small>
-          </a>
-        </p>
-        <ul>
-          <li className="single">
-            <a href="https://github.com/shpfli/shpfli.github.io">View On
-              <strong>GitHub</strong>
-            </a>
-          </li>
-        </ul>
       </section>
 
       <section className="main-content">
